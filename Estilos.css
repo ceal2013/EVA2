@@ -77,6 +77,19 @@ section h2 {
     text-align: center;
 }
 
+/* Sección de Otros servicios */
+.otros-servicios {
+    text-align: left;
+}
+
+#otros-servicios-list {
+    list-style-position: inside; 
+}
+
+#otros-servicios-title {
+    margin-bottom: 20px;
+}
+
 /* Estilos para el pie de página */
 footer {
     background-color: rgb(26, 125, 195);
