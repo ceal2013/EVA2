@@ -47,7 +47,7 @@ p {
 section h2 {
     text-align: center;
     color: rgb(26, 125, 195);
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-shadow: 2px 2px 4px gray;
     border-bottom: 1px solid gray;
     padding-bottom: 10px;
 }
