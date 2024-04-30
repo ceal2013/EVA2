@@ -1,0 +1,86 @@
+/* Estilos para el cuerpo */
+body {
+    background-color: #f2f2f2;
+}
+
+/* Estilos para el encabezado */
+header {
+    background-color: rgb(26, 125, 195);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Estilos para la imagen del encabezado */
+header img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    max-height: 150px;
+}
+
+/* Estilos para la barra de navegación */
+nav.navbar {
+    background-color: rgb(26, 125, 195);
+}
+
+/* Estilos para los enlaces de navegación */
+.navbar-nav .nav-link {
+    color: white;
+}
+
+/* Estilos para las secciones */
+section {
+    text-align: center;
+    margin-top: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+section h2 {
+    text-align: center;
+    color: rgb(26, 125, 195);
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    border-bottom: 1px solid gray;
+    padding-bottom: 10px;
+}
+
+#lineaseccion {
+    border-bottom: 1px solid gray;
+    margin: 20px;
+}
+
+.imagen-seccion {
+    width: 350px;
+    height: 350px;
+    display: block;
+    margin: 20px;
+    
+    
+}
+
+#imagenseccion2 {
+    width: 200px;
+    height: 200px;
+    display: inline;
+    margin: 20px;
+}
+
+#p2 {
+    text-align: center;
+}
+
+/* Estilos para el pie de página */
+footer {
+    background-color: rgb(26, 125, 195);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
