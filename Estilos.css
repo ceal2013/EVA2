@@ -1,9 +1,13 @@
-/* Estilos para el cuerpo */
+/* Cuerpo */
 body {
     background-color: #f2f2f2;
 }
 
-/* Estilos para el encabezado */
+#titulohome h3 p {
+    text-align: center;
+}
+
+/* Encabezado */
 header {
     background-color: rgb(26, 125, 195);
     color: white;
@@ -11,7 +15,7 @@ header {
     text-align: center;
 }
 
-/* Estilos para la imagen del encabezado */
+/* Imagen del encabezado */
 header img {
     max-width: 100%;
     height: auto;
@@ -20,17 +24,17 @@ header img {
     max-height: 150px;
 }
 
-/* Estilos para la barra de navegación */
+/* Barra de navegación */
 nav.navbar {
     background-color: rgb(26, 125, 195);
 }
 
-/* Estilos para los enlaces de navegación */
+/* Enlaces Navegación */
 .navbar-nav .nav-link {
     color: white;
 }
 
-/* Estilos para las secciones */
+/* Secciones */
 section {
     text-align: center;
     margin-top: 20px;
